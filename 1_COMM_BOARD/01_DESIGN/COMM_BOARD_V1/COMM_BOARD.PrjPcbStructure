@@ -1,0 +1,17 @@
+﻿Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=eMMC.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=HW_Mechanical_Parts.SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=I2C_SENSOR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=LVDS.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MODULE_FPGA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=PoE.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Project_overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=QSPI.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=SDRAM.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=STlink_V3E_Module.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=STlink_V3E_PWR.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=STM32_microcontroller_IOs.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=STM32_microcontroller_Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=TAG.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=USB_OTG.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=USB_OTG_FS.SchDoc|SheetNumber=7
