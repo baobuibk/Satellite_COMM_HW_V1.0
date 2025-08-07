@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=BLOCK_DIAGRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHBBANNK
+
+[Document2]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMIAYHDU
 
-[Document2]
+[Document3]
 DocumentPath=MCU_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVGJDBGY
 
-[Document3]
+[Document4]
 DocumentPath=SDRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTGDTNWQ
 
-[Document4]
+[Document5]
 DocumentPath=eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDIAIPAU
 
-[Document5]
+[Document6]
 DocumentPath=QSPI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHKFJYKF
 
-[Document6]
+[Document7]
 DocumentPath=HW_Mechanical_Parts.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRFHTNBJ
 
-[Document7]
+[Document8]
 DocumentPath=eMMC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=SDRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=QSPI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=MB1381.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=USB_OTG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDJCQFKX
 
-[Document13]
+[Document14]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDROOTNA
 
-[Document14]
+[Document15]
 DocumentPath=LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMETSLND
 
-[Document15]
+[Document16]
 DocumentPath=MODULE_FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKITCFKZ
 
-[Document16]
+[Document17]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_HuyHung.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_HuyHung.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBYXYJSN
 
-[Document18]
+[Document19]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_ThanhDuy.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_ThanhDuy.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMRDUKWW
 
-[Document20]
+[Document21]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
-[Document22]
+[Document23]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\TranHuy_Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\TranHuy_Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTHGDAYU
 
-[Document24]
+[Document25]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPYPJVZJ
 
-[Document25]
+[Document26]
 DocumentPath=DEBUG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYCIGTKW
 
-[Document26]
+[Document27]
 DocumentPath=I2C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZMZFQRB
 
-[Document27]
+[Document28]
 DocumentPath=CONNECTOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGUAFUAF
 
-[Document28]
+[Document29]
 DocumentPath=WATCHDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJCTDRVG
 
-[Document29]
+[Document30]
 DocumentPath=Project Logs for COMM_BOARD_V1\COMM_BOARD_V1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=FRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,6 +575,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXHLAQHV
+
+[Document32]
+DocumentPath=CONNECT_EXP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WCAQLDBY
+
+[Document33]
+DocumentPath=POWER_TREE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HKRRADTF
 
 [ProjectVariant1]
 UniqueId=C1FFB6AB-B489-46C2-85DC-8FBDF2D01DBC
@@ -3329,143 +3380,150 @@ Net15=NetName=DIN7|NetColor=$0075A0C2
 Net16=NetName=DIN8|NetColor=$0075A0C2
 Net17=NetName=DIN9|NetColor=$0075A0C2
 Net18=NetName=FPGA_D[0...9]|NetColor=$00164FDE
-Net19=NetName=FPGA_D0|NetColor=$00164FDE
-Net20=NetName=FPGA_D1|NetColor=$00164FDE
-Net21=NetName=FPGA_D2|NetColor=$00164FDE
-Net22=NetName=FPGA_D3|NetColor=$00164FDE
-Net23=NetName=FPGA_D4|NetColor=$00164FDE
-Net24=NetName=FPGA_D5|NetColor=$00164FDE
-Net25=NetName=FPGA_D6|NetColor=$00164FDE
-Net26=NetName=FPGA_D7|NetColor=$00164FDE
-Net27=NetName=FPGA_D8|NetColor=$00164FDE
-Net28=NetName=FPGA_D9|NetColor=$00164FDE
+Net19=NetName=FPGA_D0|NetColor=$000101FF
+Net20=NetName=FPGA_D1|NetColor=$000101FF
+Net21=NetName=FPGA_D2|NetColor=$000101FF
+Net22=NetName=FPGA_D3|NetColor=$000101FF
+Net23=NetName=FPGA_D4|NetColor=$000101FF
+Net24=NetName=FPGA_D5|NetColor=$000101FF
+Net25=NetName=FPGA_D6|NetColor=$000101FF
+Net26=NetName=FPGA_D7|NetColor=$000101FF
+Net27=NetName=FPGA_D8|NetColor=$000101FF
+Net28=NetName=FPGA_D9|NetColor=$000101FF
 Net29=NetName=FPGA_DIN9|NetColor=$006EFF6E
-Net30=NetName=FPGA_RefC|NetColor=$00164FDE
-Net31=NetName=FPGA_TxC|NetColor=$00164FDE
-Net32=NetName=FRAM_CS|NetColor=$00FF6EFF
-Net33=NetName=FRAM_SPI6_MISO|NetColor=$00FF6EFF
-Net34=NetName=FRAM_SPI6_MOSI|NetColor=$00FF6EFF
-Net35=NetName=FRAM_SPI6_SCK|NetColor=$00FF6EFF
-Net36=NetName=JTCK/SWCLK|NetColor=$00FFFF6E
-Net37=NetName=JTDI|NetColor=$00FFFF6E
-Net38=NetName=JTDO/SWO|NetColor=$00FFFF6E
-Net39=NetName=JTMS/SWDO|NetColor=$00FFFF6E
-Net40=NetName=K_IN|NetColor=$00164FDE
-Net41=NetName=LVDS_SPI_MOSI|NetColor=$00002A45
-Net42=NetName=LVDS_SPI_SCK|NetColor=$00002A45
-Net43=NetName=N00000|NetColor=$00164FDE
-Net44=NetName=NetCN?_1|NetColor=$00FFFF6E
-Net45=NetName=NetCN?_2|NetColor=$00FFFF6E
-Net46=NetName=NetCN?_3|NetColor=$00FFFF6E
-Net47=NetName=NetCN?_4|NetColor=$00FFFF6E
-Net48=NetName=NetJ5_1|NetColor=$00FFFF6E
-Net49=NetName=NetJ5_3|NetColor=$00FFFF6E
-Net50=NetName=NetR?_2|NetColor=$00FFFF6E
-Net51=NetName=NetR238_1|NetColor=$00FFFF6E
-Net52=NetName=NetSB?_1|NetColor=$00FFFF6E
-Net53=NetName=NetU?_1|NetColor=$0053B23B
-Net54=NetName=NetU?_17|NetColor=$00164FDE
-Net55=NetName=NetU?_18|NetColor=$00164FDE
-Net56=NetName=NetU?_4|NetColor=$0053B23B
-Net57=NetName=NetU1_5|NetColor=$00002A45
-Net58=NetName=NetU2_5|NetColor=$00002A45
-Net59=NetName=QSPI_BK1_IO0|NetColor=$00800E84
-Net60=NetName=QSPI_BK1_IO1|NetColor=$00800E84
-Net61=NetName=QSPI_BK1_IO2|NetColor=$00800E84
-Net62=NetName=QSPI_BK1_IO3|NetColor=$00800E84
-Net63=NetName=QSPI_BK1_NCS|NetColor=$00800E84
-Net64=NetName=QSPI_BK2_IO0|NetColor=$00800E84
-Net65=NetName=QSPI_BK2_IO1|NetColor=$00800E84
-Net66=NetName=QSPI_BK2_IO2|NetColor=$00800E84
-Net67=NetName=QSPI_BK2_IO3|NetColor=$00800E84
-Net68=NetName=QSPI_BK2_NCS|NetColor=$00800E84
-Net69=NetName=QSPI_CLK|NetColor=$00800E84
-Net70=NetName=RESET#|NetColor=$00FFFF6E
-Net71=NetName=SDIO1_CK|NetColor=$00818D2D
-Net72=NetName=SDIO1_CMD|NetColor=$00818D2D
-Net73=NetName=SDIO1_D[0..7]|NetColor=$00818D2D
-Net74=NetName=SDIO1_D0|NetColor=$00818D2D
-Net75=NetName=SDIO1_D1|NetColor=$00818D2D
-Net76=NetName=SDIO1_D2|NetColor=$00818D2D
-Net77=NetName=SDIO1_D3|NetColor=$00818D2D
-Net78=NetName=SDIO1_D4|NetColor=$00818D2D
-Net79=NetName=SDIO1_D5|NetColor=$00818D2D
-Net80=NetName=SDIO1_D6|NetColor=$00818D2D
-Net81=NetName=SDIO1_D7|NetColor=$00818D2D
-Net82=NetName=SDRAM_A[0..11]|NetColor=$0000F8CC
-Net83=NetName=SDRAM_A0|NetColor=$0000F8CC
-Net84=NetName=SDRAM_A1|NetColor=$0000F8CC
-Net85=NetName=SDRAM_A10|NetColor=$0000F8CC
-Net86=NetName=SDRAM_A11|NetColor=$0000F8CC
-Net87=NetName=SDRAM_A2|NetColor=$0000F8CC
-Net88=NetName=SDRAM_A3|NetColor=$0000F8CC
-Net89=NetName=SDRAM_A4|NetColor=$0000F8CC
-Net90=NetName=SDRAM_A5|NetColor=$0000F8CC
-Net91=NetName=SDRAM_A6|NetColor=$0000F8CC
-Net92=NetName=SDRAM_A7|NetColor=$0000F8CC
-Net93=NetName=SDRAM_A8|NetColor=$0000F8CC
-Net94=NetName=SDRAM_A9|NetColor=$0000F8CC
-Net95=NetName=SDRAM_BA0|NetColor=$0000F8CC
-Net96=NetName=SDRAM_BA1|NetColor=$0000F8CC
-Net97=NetName=SDRAM_D[0..15]|NetColor=$0000F8CC
-Net98=NetName=SDRAM_D0|NetColor=$0000F8CC
-Net99=NetName=SDRAM_D1|NetColor=$0000F8CC
-Net100=NetName=SDRAM_D10|NetColor=$0000F8CC
-Net101=NetName=SDRAM_D11|NetColor=$0000F8CC
-Net102=NetName=SDRAM_D12|NetColor=$0000F8CC
-Net103=NetName=SDRAM_D13|NetColor=$0000F8CC
-Net104=NetName=SDRAM_D14|NetColor=$0000F8CC
-Net105=NetName=SDRAM_D15|NetColor=$0000F8CC
-Net106=NetName=SDRAM_D2|NetColor=$0000F8CC
-Net107=NetName=SDRAM_D3|NetColor=$0000F8CC
-Net108=NetName=SDRAM_D4|NetColor=$0000F8CC
-Net109=NetName=SDRAM_D5|NetColor=$0000F8CC
-Net110=NetName=SDRAM_D6|NetColor=$0000F8CC
-Net111=NetName=SDRAM_D7|NetColor=$0000F8CC
-Net112=NetName=SDRAM_D8|NetColor=$0000F8CC
-Net113=NetName=SDRAM_D9|NetColor=$0000F8CC
-Net114=NetName=SDRAM_NBL0|NetColor=$0000F8CC
-Net115=NetName=SDRAM_NBL1|NetColor=$0000F8CC
-Net116=NetName=SDRAM_SDCKE1|NetColor=$0000F8CC
-Net117=NetName=SDRAM_SDCLK|NetColor=$0000F8CC
-Net118=NetName=SDRAM_SDNCAS|NetColor=$0000F8CC
-Net119=NetName=SDRAM_SDNE1|NetColor=$0000F8CC
-Net120=NetName=SDRAM_SDNRAS|NetColor=$0000F8CC
-Net121=NetName=SDRAM_SDNWE|NetColor=$0000F8CC
-Net122=NetName=STATUS0|NetColor=$00164FDE
-Net123=NetName=STATUS1|NetColor=$00164FDE
-Net124=NetName=STATUS2|NetColor=$00164FDE
-Net125=NetName=STATUS3|NetColor=$00164FDE
-Net126=NetName=STATUS4|NetColor=$00164FDE
-Net127=NetName=STLK_VCP_RX|NetColor=$00FF6E6E
-Net128=NetName=STLK_VCP_TX|NetColor=$00FF6E6E
-Net129=NetName=SWO/JTDO|NetColor=$00FFFF6E
-Net130=NetName=T_JTDI|NetColor=$00FFFF6E
-Net131=NetName=T_SWCLKa|NetColor=$00FF6E6E
-Net132=NetName=T_SWDIOa|NetColor=$00FF6E6E
-Net133=NetName=T_SWOa|NetColor=$00FF6E6E
-Net134=NetName=T_VCP_RX|NetColor=$006EFF6E
-Net135=NetName=T_VCP_TX|NetColor=$006EFF6E
-Net136=NetName=ULPI_CK|NetColor=$00FF6E6E
-Net137=NetName=ULPI_CLK|NetColor=$00FF6E6E
-Net138=NetName=ULPI_D[0..7]|NetColor=$00FF6E6E
-Net139=NetName=ULPI_D0|NetColor=$00FF6E6E
-Net140=NetName=ULPI_D1|NetColor=$00FF6E6E
-Net141=NetName=ULPI_D2|NetColor=$00FF6E6E
-Net142=NetName=ULPI_D3|NetColor=$00FF6E6E
-Net143=NetName=ULPI_D4|NetColor=$00FF6E6E
-Net144=NetName=ULPI_D5|NetColor=$00FF6E6E
-Net145=NetName=ULPI_D6|NetColor=$00FF6E6E
-Net146=NetName=ULPI_D7|NetColor=$00FF6E6E
-Net147=NetName=ULPI_DIR|NetColor=$00FF6E6E
-Net148=NetName=ULPI_NXT|NetColor=$00FF6E6E
-Net149=NetName=ULPI_STP|NetColor=$00FF6E6E
-Net150=NetName=USB_DEV_HS_N|NetColor=$00FFFF6E
-Net151=NetName=USB_DEV_HS_P|NetColor=$00FFFF6E
-Net152=NetName=VCP_RX|NetColor=$006EFF6E
-Net153=NetName=VCP_TX|NetColor=$00FFFF6E
-Net154=NetName=WAKEUP|NetColor=$006EFF6E
-Net155=NetName=WD_DONE|NetColor=$006EFF6E
+Net30=NetName=FPGA_RefC|NetColor=$000101FF
+Net31=NetName=FPGA_STATUS0|NetColor=$000101FF
+Net32=NetName=FPGA_STATUS1|NetColor=$000101FF
+Net33=NetName=FPGA_STATUS2|NetColor=$000101FF
+Net34=NetName=FPGA_STATUS3|NetColor=$000101FF
+Net35=NetName=FPGA_STATUS4|NetColor=$000101FF
+Net36=NetName=FPGA_TxC|NetColor=$000101FF
+Net37=NetName=FRAM_CS|NetColor=$00FF6EFF
+Net38=NetName=FRAM_SPI6_MISO|NetColor=$00FF6EFF
+Net39=NetName=FRAM_SPI6_MOSI|NetColor=$00FF6EFF
+Net40=NetName=FRAM_SPI6_SCK|NetColor=$00FF6EFF
+Net41=NetName=JTCK/SWCLK|NetColor=$00FFFF6E
+Net42=NetName=JTDI|NetColor=$00FFFF6E
+Net43=NetName=JTDO/SWO|NetColor=$00FFFF6E
+Net44=NetName=JTMS/SWDO|NetColor=$00FFFF6E
+Net45=NetName=K_IN|NetColor=$000101FF
+Net46=NetName=LVDS_SPI_MOSI|NetColor=$00002A45
+Net47=NetName=LVDS_SPI_SCK|NetColor=$00002A45
+Net48=NetName=N00000|NetColor=$000101FF
+Net49=NetName=NetCN?_1|NetColor=$00FFFF6E
+Net50=NetName=NetCN?_2|NetColor=$00FFFF6E
+Net51=NetName=NetCN?_3|NetColor=$00FFFF6E
+Net52=NetName=NetCN?_4|NetColor=$00FFFF6E
+Net53=NetName=NetJ5_1|NetColor=$00FFFF6E
+Net54=NetName=NetJ5_3|NetColor=$00FFFF6E
+Net55=NetName=NetR?_2|NetColor=$00FFFF6E
+Net56=NetName=NetR238_1|NetColor=$00FFFF6E
+Net57=NetName=NetSB?_1|NetColor=$00FFFF6E
+Net58=NetName=NetU?_1|NetColor=$0053B23B
+Net59=NetName=NetU?_17|NetColor=$00164FDE
+Net60=NetName=NetU?_18|NetColor=$00164FDE
+Net61=NetName=NetU?_4|NetColor=$0053B23B
+Net62=NetName=NetU1_5|NetColor=$00002A45
+Net63=NetName=NetU14_17|NetColor=$000101FF
+Net64=NetName=NetU14_18|NetColor=$000101FF
+Net65=NetName=NetU2_5|NetColor=$00002A45
+Net66=NetName=QSPI_BK1_IO0|NetColor=$00800E84
+Net67=NetName=QSPI_BK1_IO1|NetColor=$00800E84
+Net68=NetName=QSPI_BK1_IO2|NetColor=$00800E84
+Net69=NetName=QSPI_BK1_IO3|NetColor=$00800E84
+Net70=NetName=QSPI_BK1_NCS|NetColor=$00800E84
+Net71=NetName=QSPI_BK2_IO0|NetColor=$00800E84
+Net72=NetName=QSPI_BK2_IO1|NetColor=$00800E84
+Net73=NetName=QSPI_BK2_IO2|NetColor=$00800E84
+Net74=NetName=QSPI_BK2_IO3|NetColor=$00800E84
+Net75=NetName=QSPI_BK2_NCS|NetColor=$00800E84
+Net76=NetName=QSPI_CLK|NetColor=$00800E84
+Net77=NetName=RESET#|NetColor=$00FFFF6E
+Net78=NetName=SDIO1_CK|NetColor=$00818D2D
+Net79=NetName=SDIO1_CMD|NetColor=$00818D2D
+Net80=NetName=SDIO1_D[0..7]|NetColor=$00818D2D
+Net81=NetName=SDIO1_D0|NetColor=$00818D2D
+Net82=NetName=SDIO1_D1|NetColor=$00818D2D
+Net83=NetName=SDIO1_D2|NetColor=$00818D2D
+Net84=NetName=SDIO1_D3|NetColor=$00818D2D
+Net85=NetName=SDIO1_D4|NetColor=$00818D2D
+Net86=NetName=SDIO1_D5|NetColor=$00818D2D
+Net87=NetName=SDIO1_D6|NetColor=$00818D2D
+Net88=NetName=SDIO1_D7|NetColor=$00818D2D
+Net89=NetName=SDRAM_A[0..11]|NetColor=$0000F8CC
+Net90=NetName=SDRAM_A0|NetColor=$0000F8CC
+Net91=NetName=SDRAM_A1|NetColor=$0000F8CC
+Net92=NetName=SDRAM_A10|NetColor=$0000F8CC
+Net93=NetName=SDRAM_A11|NetColor=$0000F8CC
+Net94=NetName=SDRAM_A2|NetColor=$0000F8CC
+Net95=NetName=SDRAM_A3|NetColor=$0000F8CC
+Net96=NetName=SDRAM_A4|NetColor=$0000F8CC
+Net97=NetName=SDRAM_A5|NetColor=$0000F8CC
+Net98=NetName=SDRAM_A6|NetColor=$0000F8CC
+Net99=NetName=SDRAM_A7|NetColor=$0000F8CC
+Net100=NetName=SDRAM_A8|NetColor=$0000F8CC
+Net101=NetName=SDRAM_A9|NetColor=$0000F8CC
+Net102=NetName=SDRAM_BA0|NetColor=$0000F8CC
+Net103=NetName=SDRAM_BA1|NetColor=$0000F8CC
+Net104=NetName=SDRAM_D[0..15]|NetColor=$0000F8CC
+Net105=NetName=SDRAM_D0|NetColor=$0000F8CC
+Net106=NetName=SDRAM_D1|NetColor=$0000F8CC
+Net107=NetName=SDRAM_D10|NetColor=$0000F8CC
+Net108=NetName=SDRAM_D11|NetColor=$0000F8CC
+Net109=NetName=SDRAM_D12|NetColor=$0000F8CC
+Net110=NetName=SDRAM_D13|NetColor=$0000F8CC
+Net111=NetName=SDRAM_D14|NetColor=$0000F8CC
+Net112=NetName=SDRAM_D15|NetColor=$0000F8CC
+Net113=NetName=SDRAM_D2|NetColor=$0000F8CC
+Net114=NetName=SDRAM_D3|NetColor=$0000F8CC
+Net115=NetName=SDRAM_D4|NetColor=$0000F8CC
+Net116=NetName=SDRAM_D5|NetColor=$0000F8CC
+Net117=NetName=SDRAM_D6|NetColor=$0000F8CC
+Net118=NetName=SDRAM_D7|NetColor=$0000F8CC
+Net119=NetName=SDRAM_D8|NetColor=$0000F8CC
+Net120=NetName=SDRAM_D9|NetColor=$0000F8CC
+Net121=NetName=SDRAM_NBL0|NetColor=$0000F8CC
+Net122=NetName=SDRAM_NBL1|NetColor=$0000F8CC
+Net123=NetName=SDRAM_SDCKE1|NetColor=$0000F8CC
+Net124=NetName=SDRAM_SDCLK|NetColor=$0000F8CC
+Net125=NetName=SDRAM_SDNCAS|NetColor=$0000F8CC
+Net126=NetName=SDRAM_SDNE1|NetColor=$0000F8CC
+Net127=NetName=SDRAM_SDNRAS|NetColor=$0000F8CC
+Net128=NetName=SDRAM_SDNWE|NetColor=$0000F8CC
+Net129=NetName=STATUS0|NetColor=$00164FDE
+Net130=NetName=STATUS1|NetColor=$00164FDE
+Net131=NetName=STATUS2|NetColor=$00164FDE
+Net132=NetName=STATUS3|NetColor=$00164FDE
+Net133=NetName=STATUS4|NetColor=$00164FDE
+Net134=NetName=STLK_VCP_RX|NetColor=$00FF6E6E
+Net135=NetName=STLK_VCP_TX|NetColor=$00FF6E6E
+Net136=NetName=SWO/JTDO|NetColor=$00FFFF6E
+Net137=NetName=T_JTDI|NetColor=$00FFFF6E
+Net138=NetName=T_SWCLKa|NetColor=$00FF6E6E
+Net139=NetName=T_SWDIOa|NetColor=$00FF6E6E
+Net140=NetName=T_SWOa|NetColor=$00FF6E6E
+Net141=NetName=T_VCP_RX|NetColor=$006EFF6E
+Net142=NetName=T_VCP_TX|NetColor=$006EFF6E
+Net143=NetName=ULPI_CK|NetColor=$00FF6E6E
+Net144=NetName=ULPI_CLK|NetColor=$00FF6E6E
+Net145=NetName=ULPI_D[0..7]|NetColor=$00FF6E6E
+Net146=NetName=ULPI_D0|NetColor=$00FF6E6E
+Net147=NetName=ULPI_D1|NetColor=$00FF6E6E
+Net148=NetName=ULPI_D2|NetColor=$00FF6E6E
+Net149=NetName=ULPI_D3|NetColor=$00FF6E6E
+Net150=NetName=ULPI_D4|NetColor=$00FF6E6E
+Net151=NetName=ULPI_D5|NetColor=$00FF6E6E
+Net152=NetName=ULPI_D6|NetColor=$00FF6E6E
+Net153=NetName=ULPI_D7|NetColor=$00FF6E6E
+Net154=NetName=ULPI_DIR|NetColor=$00FF6E6E
+Net155=NetName=ULPI_NXT|NetColor=$00FF6E6E
+Net156=NetName=ULPI_STP|NetColor=$00FF6E6E
+Net157=NetName=USB_DEV_HS_N|NetColor=$00FFFF6E
+Net158=NetName=USB_DEV_HS_P|NetColor=$00FFFF6E
+Net159=NetName=VCP_RX|NetColor=$006EFF6E
+Net160=NetName=VCP_TX|NetColor=$00FFFF6E
+Net161=NetName=WAKEUP|NetColor=$006EFF6E
+Net162=NetName=WD_DONE|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
