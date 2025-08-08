@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OHBBANNK
 
 [Document2]
+DocumentPath=POWER_TREE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HKRRADTF
+
+[Document3]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMIAYHDU
 
-[Document3]
+[Document4]
 DocumentPath=MCU_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVGJDBGY
 
-[Document4]
+[Document5]
 DocumentPath=SDRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTGDTNWQ
 
-[Document5]
+[Document6]
 DocumentPath=eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDIAIPAU
 
-[Document6]
+[Document7]
 DocumentPath=QSPI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHKFJYKF
 
-[Document7]
+[Document8]
 DocumentPath=HW_Mechanical_Parts.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRFHTNBJ
 
-[Document8]
+[Document9]
 DocumentPath=eMMC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=SDRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=QSPI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=MB1381.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=USB_OTG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDJCQFKX
 
-[Document14]
+[Document15]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDROOTNA
 
-[Document15]
+[Document16]
 DocumentPath=LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMETSLND
 
-[Document16]
+[Document17]
 DocumentPath=MODULE_FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKITCFKZ
 
-[Document17]
+[Document18]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_HuyHung.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -336,9 +353,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NLQOLUVH
 
-[Document18]
+[Document19]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_HuyHung.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBYXYJSN
 
-[Document19]
+[Document20]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_ThanhDuy.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -370,9 +387,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FYRLINOU
 
-[Document20]
+[Document21]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\3_ThanhDuy.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMRDUKWW
 
-[Document21]
+[Document22]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
-[Document23]
+[Document24]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\TranHuy_Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=I:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\TranHuy_Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTHGDAYU
 
-[Document25]
+[Document26]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPYPJVZJ
 
-[Document26]
+[Document27]
 DocumentPath=DEBUG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYCIGTKW
 
-[Document27]
+[Document28]
 DocumentPath=I2C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZMZFQRB
 
-[Document28]
+[Document29]
 DocumentPath=CONNECTOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,41 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGUAFUAF
 
-[Document29]
-DocumentPath=WATCHDOG.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XJCTDRVG
-
 [Document30]
-DocumentPath=Project Logs for COMM_BOARD_V1\COMM_BOARD_V1.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document31]
 DocumentPath=FRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXHLAQHV
 
-[Document32]
+[Document31]
 DocumentPath=CONNECT_EXP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,8 +576,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCAQLDBY
 
-[Document33]
-DocumentPath=POWER_TREE.SchDoc
+[Document32]
+DocumentPath=WATCHDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -608,7 +591,126 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HKRRADTF
+DocumentUniqueId=XJCTDRVG
+
+[Document33]
+DocumentPath=Project Logs for COMM_BOARD_V1\COMM_BOARD_V1.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=..\..\..\0_LIB\CONNECTOR\5040500591\5040500591.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EVQONMSJ
+
+[Document35]
+DocumentPath=..\..\..\0_LIB\CONNECTOR\5040500591\5040500591.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BCYTXMXG
+
+[Document36]
+DocumentPath=..\..\..\0_LIB\CONNECTOR\5040500991\5040500991.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LSEEBEEL
+
+[Document37]
+DocumentPath=..\..\..\0_LIB\CONNECTOR\5040500991\5040500991.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YTCRTSQC
+
+[Document38]
+DocumentPath=..\..\..\0_LIB\MCU\STM32H745XI6\STM32H745XIH6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document39]
+DocumentPath=..\..\..\0_LIB\MCU\STM32H745XI6\STM32H745XIH6.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=C1FFB6AB-B489-46C2-85DC-8FBDF2D01DBC
@@ -3427,29 +3529,29 @@ Net62=NetName=NetU1_5|NetColor=$00002A45
 Net63=NetName=NetU14_17|NetColor=$000101FF
 Net64=NetName=NetU14_18|NetColor=$000101FF
 Net65=NetName=NetU2_5|NetColor=$00002A45
-Net66=NetName=QSPI_BK1_IO0|NetColor=$00800E84
-Net67=NetName=QSPI_BK1_IO1|NetColor=$00800E84
-Net68=NetName=QSPI_BK1_IO2|NetColor=$00800E84
-Net69=NetName=QSPI_BK1_IO3|NetColor=$00800E84
-Net70=NetName=QSPI_BK1_NCS|NetColor=$00800E84
-Net71=NetName=QSPI_BK2_IO0|NetColor=$00800E84
-Net72=NetName=QSPI_BK2_IO1|NetColor=$00800E84
-Net73=NetName=QSPI_BK2_IO2|NetColor=$00800E84
-Net74=NetName=QSPI_BK2_IO3|NetColor=$00800E84
-Net75=NetName=QSPI_BK2_NCS|NetColor=$00800E84
-Net76=NetName=QSPI_CLK|NetColor=$00800E84
+Net66=NetName=QSPI_BK1_IO0|NetColor=$00FB4B05
+Net67=NetName=QSPI_BK1_IO1|NetColor=$00FB4B05
+Net68=NetName=QSPI_BK1_IO2|NetColor=$00FB4B05
+Net69=NetName=QSPI_BK1_IO3|NetColor=$00FB4B05
+Net70=NetName=QSPI_BK1_NCS|NetColor=$00FB4B05
+Net71=NetName=QSPI_BK2_IO0|NetColor=$00FB4B05
+Net72=NetName=QSPI_BK2_IO1|NetColor=$00FB4B05
+Net73=NetName=QSPI_BK2_IO2|NetColor=$00FB4B05
+Net74=NetName=QSPI_BK2_IO3|NetColor=$00FB4B05
+Net75=NetName=QSPI_BK2_NCS|NetColor=$00FB4B05
+Net76=NetName=QSPI_CLK|NetColor=$00FB4B05
 Net77=NetName=RESET#|NetColor=$00FFFF6E
-Net78=NetName=SDIO1_CK|NetColor=$00818D2D
-Net79=NetName=SDIO1_CMD|NetColor=$00818D2D
-Net80=NetName=SDIO1_D[0..7]|NetColor=$00818D2D
-Net81=NetName=SDIO1_D0|NetColor=$00818D2D
-Net82=NetName=SDIO1_D1|NetColor=$00818D2D
-Net83=NetName=SDIO1_D2|NetColor=$00818D2D
-Net84=NetName=SDIO1_D3|NetColor=$00818D2D
-Net85=NetName=SDIO1_D4|NetColor=$00818D2D
-Net86=NetName=SDIO1_D5|NetColor=$00818D2D
-Net87=NetName=SDIO1_D6|NetColor=$00818D2D
-Net88=NetName=SDIO1_D7|NetColor=$00818D2D
+Net78=NetName=SDIO1_CK|NetColor=$00BB457F
+Net79=NetName=SDIO1_CMD|NetColor=$00BB457F
+Net80=NetName=SDIO1_D[0..7]|NetColor=$00BB457F
+Net81=NetName=SDIO1_D0|NetColor=$00BB457F
+Net82=NetName=SDIO1_D1|NetColor=$00BB457F
+Net83=NetName=SDIO1_D2|NetColor=$00BB457F
+Net84=NetName=SDIO1_D3|NetColor=$00BB457F
+Net85=NetName=SDIO1_D4|NetColor=$00BB457F
+Net86=NetName=SDIO1_D5|NetColor=$00BB457F
+Net87=NetName=SDIO1_D6|NetColor=$00BB457F
+Net88=NetName=SDIO1_D7|NetColor=$00BB457F
 Net89=NetName=SDRAM_A[0..11]|NetColor=$0000F8CC
 Net90=NetName=SDRAM_A0|NetColor=$0000F8CC
 Net91=NetName=SDRAM_A1|NetColor=$0000F8CC

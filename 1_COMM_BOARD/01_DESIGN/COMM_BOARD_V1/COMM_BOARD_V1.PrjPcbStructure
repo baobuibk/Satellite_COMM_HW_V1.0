@@ -1,5 +1,6 @@
 ﻿Record=TopLevelDocument|FileName=BLOCK_DIAGRAM.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=CAN.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=CONNECT_EXP.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=CONNECTOR.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=DEBUG.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=eMMC.SchDoc|SheetNumber=10
@@ -11,6 +12,7 @@ Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=MCU.SchDo
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=MCU_POWER.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=MODULE_FPGA.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=POWER.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=POWER_TREE.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=QSPI.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=SDRAM.SchDoc|SheetNumber=9
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=USB_OTG.SchDoc|SheetNumber=8
