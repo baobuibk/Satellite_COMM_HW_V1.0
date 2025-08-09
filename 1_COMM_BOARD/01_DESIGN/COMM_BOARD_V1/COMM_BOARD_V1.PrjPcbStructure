@@ -5,7 +5,6 @@ Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=CONNECTOR
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=DEBUG.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=eMMC.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=FRAM.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=HW_Mechanical_Parts.SchDoc|SheetNumber=19
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=I2C.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=LVDS.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=MCU.SchDoc|SheetNumber=3
