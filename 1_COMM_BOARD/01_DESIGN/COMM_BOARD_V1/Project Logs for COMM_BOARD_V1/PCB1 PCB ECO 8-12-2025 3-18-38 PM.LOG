@@ -1,0 +1,98 @@
+Add component: Footprint Not Found CAP_C_1608X80
+Added Component: Designator=R151(RES_C_1608X60)
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R152(RES_C_1608X60)
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RES_C_1608X60
+Added Component: Designator=U?(TFBGA240+25)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.st.com/resource/en/datasheet/stm32h745zg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H745XIH6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TFBGA240+25)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.st.com/resource/en/datasheet/stm32h745zg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H745XIH6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TFBGA240+25)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.st.com/resource/en/datasheet/stm32h745zg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H745XIH6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-TFBGA240+25-A07U-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TFBGA240+25)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.st.com/resource/en/datasheet/stm32h745zg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H745XIH6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C78-1
+Add Pin To Net: Unknown Pin: Pin C78-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J3-9
+Added Pin To Net: NetName=NetD1_1 Pin=R151-1
+Added Pin To Net: NetName=NetC78_1 Pin=R151-2
+Added Pin To Net: NetName=NetC78_1 Pin=R152-1
+Added Pin To Net: NetName=NetD1_2 Pin=R152-2
+Add Pin To Net: Unknown Pin: Pin R153-1
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin U12-9
+Add Pin To Net: Unknown Pin: Pin U12-10
+Add Pin To Net: Unknown Pin: Pin U12-11
+Add Pin To Net: Unknown Pin: Pin U12-12
+Add Pin To Net: Unknown Pin: Pin U12-13
+Add Pin To Net: Unknown Pin: Pin U12-14
+Add Pin To Net: Unknown Pin: Pin U12-15
+Add Pin To Net: Unknown Pin: Pin U12-16
+Add Pin To Net: Unknown Pin: Pin U12-17
+Add Pin To Net: Unknown Pin: Pin U12-18
+Add Pin To Net: Unknown Pin: Pin U12-19
+Add Pin To Net: Unknown Pin: Pin U12-20
+Add Pin To Net: Unknown Pin: Pin U12-21
+Add Pin To Net: Unknown Pin: Pin U12-22
+Added Net: Name=NetR153_2
+Add Class Member: Failed to add class member : Component C78 4.7nF/16V
+Add Class Member: Failed to add class member : Component J3 5040500991
+Added Member To Class: ClassName=CAN Member=Component R151 60R
+Added Member To Class: ClassName=CAN Member=Component R152 60R
+Add Class Member: Failed to add class member : Component R153 10K
+Added Member To Class: ClassName=MCU_POWER Member=Component U? STM32H745XIH6
+Added Member To Class: ClassName=MCU_POWER Member=Component U? STM32H745XIH6
+Added Member To Class: ClassName=MCU_POWER Member=Component U? STM32H745XIH6
+Added Member To Class: ClassName=MCU_POWER Member=Component U? STM32H745XIH6
+Added Member To Class: ClassName=MCU Member=Component U? STM32H745XIH6

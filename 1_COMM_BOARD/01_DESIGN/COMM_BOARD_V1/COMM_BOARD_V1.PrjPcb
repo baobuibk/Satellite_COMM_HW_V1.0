@@ -677,7 +677,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CDQHGGBC
 
 [Document38]
 DocumentPath=..\..\..\0_LIB\MCU\STM32H745XI6\STM32H745XIH6.SchLib
@@ -731,23 +731,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IORUTVLW
 
 [Document41]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JFXARCGA
-
-[Document42]
 DocumentPath=..\..\..\0_LIB\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -764,7 +747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJCRKHFX
 
-[Document43]
+[Document42]
 DocumentPath=..\..\..\0_LIB\USB\USB3320C-EZK-TR\USB3320C-EZK-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -781,7 +764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCJQOYGT
 
-[Document44]
+[Document43]
 DocumentPath=..\..\..\0_LIB\USB\USB3320C-EZK-TR\USB3320C-EZK-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -798,7 +781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVLZLEQD
 
-[Document45]
+[Document44]
 DocumentPath=..\..\..\0_LIB\LD1117S18TR\SOT230P700X180-4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWBRMHRI
 
-[Document46]
+[Document45]
 DocumentPath=..\..\..\0_LIB\EXP_LIB\PCA9508DP_118\PCA9508DP,118.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -832,7 +815,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXYPQIWO
 
-[Document47]
+[Document46]
 DocumentPath=..\..\..\0_LIB\EXP_LIB\PCA9508DP_118\PCA9508DP,118.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -849,7 +832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJIIAAZA
 
-[Document48]
+[Document47]
 DocumentPath=..\..\..\0_LIB\THGBMNG5D1LBAIL\BGA153N50P14X14_1300X1150X80N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -866,7 +849,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEYITYEP
 
-[Document49]
+[Document48]
 DocumentPath=..\..\..\0_LIB\THGBMNG5D1LBAIL\THGBMNG5D1LBAIL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -883,7 +866,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQFFEERK
 
-[Document50]
+[Document49]
 DocumentPath=..\..\..\0_LIB\MT25QL512ABB8ESF-0SIT\MT25QL512ABB8ESF-0SITTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -900,7 +883,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGTMWQGE
 
-[Document51]
+[Document50]
 DocumentPath=..\..\..\0_LIB\MT25QL512ABB8ESF-0SIT\MT25QL512ABB8ESF-0SITTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -917,7 +900,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGVXKMTS
 
-[Document52]
+[Document51]
 DocumentPath=..\..\..\0_LIB\Led.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -934,7 +917,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHYRESXE
 
-[Document53]
+[Document52]
 DocumentPath=..\..\..\0_LIB\CONNECTOR\FTSH-107-04-L-D\FTSH-107-04-L-D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -951,7 +934,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBLZFUBM
 
-[Document54]
+[Document53]
 DocumentPath=..\..\..\0_LIB\CONNECTOR\FTSH-107-04-L-D\SAMTEC_FTSH-107-04-L-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -968,7 +951,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RPLNGCTX
 
-[Document55]
+[Document54]
 DocumentPath=..\..\..\0_LIB\CONNECTOR\FTSH-107-03-L-DV-ES\FTSH-107-03-L-DV-ES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -985,7 +968,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLZWQMCP
 
-[Document56]
+[Document55]
 DocumentPath=..\..\..\0_LIB\CONNECTOR\FTSH-107-03-L-DV-ES\SAMTEC_FTSH-107-03-L-DV-ES.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1002,7 +985,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAVGETIX
 
-[Document57]
+[Document56]
 DocumentPath=..\..\..\0_LIB\CONNECTOR\FTSH-107-01-L-DV-K\FTSH-107-01-L-DV-K.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1019,7 +1002,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJNEVDRY
 
-[Document58]
+[Document57]
 DocumentPath=..\..\..\0_LIB\CONNECTOR\FTSH-107-01-L-DV-K\SAMTEC_FTSH-107-01-L-DV-K.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,6 +1018,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKSELYPR
+
+[Document58]
+DocumentPath=PCB2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WKDPKBCX
+
+[Document59]
+DocumentPath=..\..\..\0_LIB\SN65HVD230DR\SN65HVD230DR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UFWUFEKY
+
+[Document60]
+DocumentPath=..\..\..\0_LIB\SN65HVD230DR\SOIC127P599X175-8N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXNQXLBB
 
 [ProjectVariant1]
 UniqueId=C1FFB6AB-B489-46C2-85DC-8FBDF2D01DBC
