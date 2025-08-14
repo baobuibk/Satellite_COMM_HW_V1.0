@@ -1,0 +1,163 @@
+Removed Pin From Net: NetName=USB_HS_N Pin=J2-2
+Removed Pin From Net: NetName=USB_HS_P Pin=J2-3
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-5
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-6
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-7
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-8
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-8
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-8
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-9
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-10
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-10
+Removed Pin From Net: NetName=NetC70_2 Pin=J2-10
+Removed Member From Class: ClassName=USB_OTG Member=J2
+Added Component: Designator=J?(MOLEX_47590-0001)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/47590-0001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "47590-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/47590-0001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Added Pin To Net: NetName=USB_HS_P Pin=J?-1
+Added Pin To Net: NetName=USB_HS_N Pin=J?-2
+Added Pin To Net: NetName=USB_HS_P Pin=J?-3
+Added Pin To Net: NetName=NetC70_2 Pin=J?-5
+Added Pin To Net: NetName=NetC70_2 Pin=J?-SH1
+Added Pin To Net: NetName=NetC70_2 Pin=J?-SH2
+Added Pin To Net: NetName=NetC70_2 Pin=J?-SH3
+Added Pin To Net: NetName=NetC70_2 Pin=J?-SH4
+Added Pin To Net: NetName=NetC70_2 Pin=J?-SH5
+Add Pin To Net: Unknown Pin: Pin SB1-1
+Add Pin To Net: Unknown Pin: Pin SB1-2
+Add Pin To Net: Unknown Pin: Pin SB2-1
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Add Pin To Net: Unknown Pin: Pin SB3-1
+Add Pin To Net: Unknown Pin: Pin SB3-2
+Add Pin To Net: Unknown Pin: Pin SB4-1
+Add Pin To Net: Unknown Pin: Pin SB4-2
+Add Pin To Net: Unknown Pin: Pin SB5-2
+Add Pin To Net: Unknown Pin: Pin SB6-1
+Add Pin To Net: Unknown Pin: Pin SB6-2
+Add Pin To Net: Unknown Pin: Pin SB7-1
+Add Pin To Net: Unknown Pin: Pin SB7-2
+Add Pin To Net: Unknown Pin: Pin SB8-1
+Add Pin To Net: Unknown Pin: Pin SB8-2
+Add Pin To Net: Unknown Pin: Pin SB9-1
+Add Pin To Net: Unknown Pin: Pin SB9-2
+Add Pin To Net: Unknown Pin: Pin SB10-1
+Add Pin To Net: Unknown Pin: Pin SB10-2
+Add Pin To Net: Unknown Pin: Pin SB11-1
+Add Pin To Net: Unknown Pin: Pin SB11-2
+Add Pin To Net: Unknown Pin: Pin SB12-1
+Add Pin To Net: Unknown Pin: Pin SB12-2
+Add Pin To Net: Unknown Pin: Pin SB13-1
+Add Pin To Net: Unknown Pin: Pin SB13-2
+Add Pin To Net: Unknown Pin: Pin SB14-1
+Add Pin To Net: Unknown Pin: Pin SB14-2
+Add Pin To Net: Unknown Pin: Pin SB15-1
+Add Pin To Net: Unknown Pin: Pin SB15-2
+Add Pin To Net: Unknown Pin: Pin SB16-1
+Add Pin To Net: Unknown Pin: Pin SB16-2
+Add Pin To Net: Unknown Pin: Pin SB17-1
+Add Pin To Net: Unknown Pin: Pin SB17-2
+Add Pin To Net: Unknown Pin: Pin SB18-1
+Add Pin To Net: Unknown Pin: Pin SB18-2
+Add Pin To Net: Unknown Pin: Pin SB19-1
+Add Pin To Net: Unknown Pin: Pin SB19-2
+Add Pin To Net: Unknown Pin: Pin SB20-1
+Add Pin To Net: Unknown Pin: Pin SB20-2
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin U12-9
+Add Pin To Net: Unknown Pin: Pin U12-10
+Add Pin To Net: Unknown Pin: Pin U12-11
+Add Pin To Net: Unknown Pin: Pin U12-12
+Add Pin To Net: Unknown Pin: Pin U12-13
+Add Pin To Net: Unknown Pin: Pin U12-14
+Add Pin To Net: Unknown Pin: Pin U12-15
+Add Pin To Net: Unknown Pin: Pin U12-16
+Add Pin To Net: Unknown Pin: Pin U12-17
+Add Pin To Net: Unknown Pin: Pin U12-18
+Add Pin To Net: Unknown Pin: Pin U12-19
+Add Pin To Net: Unknown Pin: Pin U12-20
+Add Pin To Net: Unknown Pin: Pin U12-21
+Add Pin To Net: Unknown Pin: Pin U12-22
+Add Net: Net with name "SDRAM_D0" already exists
+Add Net: Net with name "SDRAM_D1" already exists
+Add Net: Net with name "SDRAM_D2" already exists
+Add Net: Net with name "SDRAM_D3" already exists
+Add Net: Net with name "SDRAM_D4" already exists
+Add Net: Net with name "SDRAM_D5" already exists
+Add Net: Net with name "SDRAM_D6" already exists
+Add Net: Net with name "SDRAM_D7" already exists
+Add Net: Net with name "SDRAM_D8" already exists
+Add Net: Net with name "SDRAM_D9" already exists
+Add Net: Net with name "SDRAM_D10" already exists
+Add Net: Net with name "SDRAM_D11" already exists
+Add Net: Net with name "SDRAM_D12" already exists
+Add Net: Net with name "SDRAM_D13" already exists
+Add Net: Net with name "SDRAM_D14" already exists
+Add Net: Net with name "SDRAM_D15" already exists
+Add Net: Net with name "SDRAM_D16" already exists
+Add Net: Net with name "SDRAM_D17" already exists
+Add Net: Net with name "SDRAM_D18" already exists
+Add Net: Net with name "SDRAM_D19" already exists
+Add Net: Net with name "SDRAM_D20" already exists
+Add Net: Net with name "SDRAM_D21" already exists
+Add Net: Net with name "SDRAM_D22" already exists
+Add Net: Net with name "SDRAM_D23" already exists
+Add Net: Net with name "SDRAM_D24" already exists
+Add Net: Net with name "SDRAM_D25" already exists
+Add Net: Net with name "SDRAM_D26" already exists
+Add Net: Net with name "SDRAM_D27" already exists
+Add Net: Net with name "SDRAM_D28" already exists
+Add Net: Net with name "SDRAM_D29" already exists
+Add Net: Net with name "SDRAM_D30" already exists
+Add Net: Net with name "SDRAM_D31" already exists
+Added Member To Class: ClassName=USB_OTG Member=Component J? 47590-0001
+Add Class Member: Failed to add class member : Component SB1 SB_ON
+Add Class Member: Failed to add class member : Component SB2 SB_OFF
+Add Class Member: Failed to add class member : Component SB3 SB_OFF
+Add Class Member: Failed to add class member : Component SB4 SB_ON
+Add Class Member: Failed to add class member : Component SB5 SB_OFF
+Add Class Member: Failed to add class member : Component SB6 SB_ON
+Add Class Member: Failed to add class member : Component SB7 SB_ON
+Add Class Member: Failed to add class member : Component SB8 SB_OFF
+Add Class Member: Failed to add class member : Component SB9 SB_ON
+Add Class Member: Failed to add class member : Component SB10 SB_ON
+Add Class Member: Failed to add class member : Component SB11 SB_OFF
+Add Class Member: Failed to add class member : Component SB12 SB_OFF
+Add Class Member: Failed to add class member : Component SB13 SB_OFF
+Add Class Member: Failed to add class member : Component SB14 SB_ON
+Add Class Member: Failed to add class member : Component SB15 SB_OFF
+Add Class Member: Failed to add class member : Component SB16 SB_ON
+Add Class Member: Failed to add class member : Component SB17 SB_ON
+Add Class Member: Failed to add class member : Component SB18 SB_ON
+Add Class Member: Failed to add class member : Component SB19 SB_OFF
+Add Class Member: Failed to add class member : Component SB20 Solder Bridge OFF
