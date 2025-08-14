@@ -1,0 +1,281 @@
+Removed Pin From Net: NetName=FLT# Pin=R157-2
+Removed Pin From Net: NetName=NetR156_1 Pin=R158-1
+Removed Pin From Net: NetName=1V8 Pin=U15-4
+Change Component Footprint: Designator=R156 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R157 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R158 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R159 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R160 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R163 Old Footprint=RESC1608X55X30ML15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R164 Old Footprint=RESC1608X55X30ML15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R154 Old Footprint=RESC1608X55X30NL15T15 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R155 Old Footprint=RESC1608X55X30NL15T15 New Footprint=RES_C_1608X60
+Change Component Comment : Designator=R157 Old Comment=22R New Comment=51R
+Change Managed Component Library Link : Designator=R154 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3CB67EAC-5134-4564-9443-F3233296ECCF New ItemGUID= Old RevisionGUID=66917D96-F339-46E3-93DD-3DE06C3B707B New RevisionGUID=
+Change Managed Component Library Link : Designator=R155 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3CB67EAC-5134-4564-9443-F3233296ECCF New ItemGUID= Old RevisionGUID=66917D96-F339-46E3-93DD-3DE06C3B707B New RevisionGUID=
+Change Managed Component Library Link : Designator=R156 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9972DBE1-514A-4B34-A8C9-BE54FF94A848 New ItemGUID= Old RevisionGUID=4401EF39-E5DF-46BA-A287-883975FBCD41 New RevisionGUID=
+Change Managed Component Library Link : Designator=R157 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BC9F97EB-1ECC-4825-BBAA-589E1C267FAD New ItemGUID= Old RevisionGUID=297415BE-6D3D-4325-AE8C-82739CFE48F1 New RevisionGUID=
+Change Managed Component Library Link : Designator=R158 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CD74E208-C0CD-4619-8285-3323F62B5036 New ItemGUID= Old RevisionGUID=D005057E-8380-4E28-AE9B-D12A67333126 New RevisionGUID=
+Change Managed Component Library Link : Designator=R159 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=58E120A5-F185-48D5-886A-A82FB97EEAE8 New ItemGUID= Old RevisionGUID=6981BECB-A0BD-459F-B12F-33B2E1DBA9BC New RevisionGUID=
+Change Managed Component Library Link : Designator=R160 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BC9F97EB-1ECC-4825-BBAA-589E1C267FAD New ItemGUID= Old RevisionGUID=297415BE-6D3D-4325-AE8C-82739CFE48F1 New RevisionGUID=
+Change Managed Component Library Link : Designator=R163 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4AD01C04-03D5-4776-9372-500409F1F2B2 New ItemGUID= Old RevisionGUID=B653BAAA-AAED-4220-AA2B-09969409DDEB New RevisionGUID=
+Change Managed Component Library Link : Designator=R164 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4AD01C04-03D5-4776-9372-500409F1F2B2 New ItemGUID= Old RevisionGUID=B653BAAA-AAED-4220-AA2B-09969409DDEB New RevisionGUID=
+Change component parameters: Designator = "R154" ("R154"); Footprint = "RESC1608X55X30NL15T15"; UniqueID = "\MKCQENCT" ("\MKCQENCT")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R155" ("R155"); Footprint = "RESC1608X55X30NL15T15"; UniqueID = "\PGHAAWZC" ("\PGHAAWZC")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R156" ("R156"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\DHOCEYEL" ("\DHOCEYEL")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R157" ("R157"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\QRYYYVXN" ("\QRYYYVXN")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R158" ("R158"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\VREBHFVI" ("\VREBHFVI")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R159" ("R159"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\VJZYJARQ" ("\VJZYJARQ")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R160" ("R160"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\XTDCPWNK" ("\XTDCPWNK")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R163" ("R163"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\SADJVQVT" ("\SADJVQVT")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R164" ("R164"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\FGLPWSVS" ("\FGLPWSVS")
+Change component parameters (AddParameter): Name = "Alternate_EMS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component_Country_Of_Origin"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Yageo_Resistor_RC0402-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Documentation_Library/Trunk/Resistor/YAGEO_RC_L_Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "n/a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Full_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "2790"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-00485"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_HQ_COO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Digikey"; Value = "311-51.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_Farnell"; Value = "1458803"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order_Code_RS"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Preference"; Value = "Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partial_Alternate_Internal_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "Subcon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ShowFields"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.9k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FLT# Pin=R157-1
+Added Pin To Net: NetName=NetR156_1 Pin=R158-2
+Added Pin To Net: NetName=NetJ11_6 Pin=R172-2
+Added Pin To Net: NetName=NetJ11_5 Pin=R173-2
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin U12-9
+Add Pin To Net: Unknown Pin: Pin U12-10
+Add Pin To Net: Unknown Pin: Pin U12-11
+Add Pin To Net: Unknown Pin: Pin U12-12
+Add Pin To Net: Unknown Pin: Pin U12-13
+Add Pin To Net: Unknown Pin: Pin U12-14
+Add Pin To Net: Unknown Pin: Pin U12-15
+Add Pin To Net: Unknown Pin: Pin U12-16
+Add Pin To Net: Unknown Pin: Pin U12-17
+Add Pin To Net: Unknown Pin: Pin U12-18
+Add Pin To Net: Unknown Pin: Pin U12-19
+Add Pin To Net: Unknown Pin: Pin U12-20
+Add Pin To Net: Unknown Pin: Pin U12-21
+Add Pin To Net: Unknown Pin: Pin U12-22
+Added Pin To Net: NetName=NetJ11_6 Pin=U16-6
+Added Pin To Net: NetName=NetJ11_5 Pin=U16-7
+Added Pin To Net: NetName=NetR157_2 Pin=R157-2
+Added Net: Name=NetR157_2
+Added Pin To Net: NetName=NetR158_1 Pin=R158-1
+Added Pin To Net: NetName=NetR158_1 Pin=R159-2
+Added Pin To Net: NetName=NetR158_1 Pin=U13-2
+Added Net: Name=NetR158_1
