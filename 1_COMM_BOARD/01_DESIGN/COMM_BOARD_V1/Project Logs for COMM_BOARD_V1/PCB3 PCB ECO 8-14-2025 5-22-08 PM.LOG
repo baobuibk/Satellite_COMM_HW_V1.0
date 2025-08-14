@@ -1,0 +1,118 @@
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add component: Footprint Not Found Jump2
+Add Pin To Net: Unknown Pin: Pin SB1-1
+Add Pin To Net: Unknown Pin: Pin SB2-1
+Add Pin To Net: Unknown Pin: Pin SB3-1
+Add Pin To Net: Unknown Pin: Pin SB3-2
+Add Pin To Net: Unknown Pin: Pin SB4-1
+Add Pin To Net: Unknown Pin: Pin SB4-2
+Add Pin To Net: Unknown Pin: Pin SB5-2
+Add Pin To Net: Unknown Pin: Pin SB6-1
+Add Pin To Net: Unknown Pin: Pin SB6-2
+Add Pin To Net: Unknown Pin: Pin SB7-1
+Add Pin To Net: Unknown Pin: Pin SB7-2
+Add Pin To Net: Unknown Pin: Pin SB8-1
+Add Pin To Net: Unknown Pin: Pin SB8-2
+Add Pin To Net: Unknown Pin: Pin SB9-1
+Add Pin To Net: Unknown Pin: Pin SB9-2
+Add Pin To Net: Unknown Pin: Pin SB10-1
+Add Pin To Net: Unknown Pin: Pin SB10-2
+Add Pin To Net: Unknown Pin: Pin SB11-1
+Add Pin To Net: Unknown Pin: Pin SB11-2
+Add Pin To Net: Unknown Pin: Pin SB12-1
+Add Pin To Net: Unknown Pin: Pin SB12-2
+Add Pin To Net: Unknown Pin: Pin SB13-1
+Add Pin To Net: Unknown Pin: Pin SB13-2
+Add Pin To Net: Unknown Pin: Pin SB14-1
+Add Pin To Net: Unknown Pin: Pin SB14-2
+Add Pin To Net: Unknown Pin: Pin SB15-1
+Add Pin To Net: Unknown Pin: Pin SB15-2
+Add Pin To Net: Unknown Pin: Pin SB16-1
+Add Pin To Net: Unknown Pin: Pin SB16-2
+Add Pin To Net: Unknown Pin: Pin SB17-1
+Add Pin To Net: Unknown Pin: Pin SB17-2
+Add Pin To Net: Unknown Pin: Pin SB18-1
+Add Pin To Net: Unknown Pin: Pin SB18-2
+Add Pin To Net: Unknown Pin: Pin SB19-1
+Add Pin To Net: Unknown Pin: Pin SB19-2
+Add Pin To Net: Unknown Pin: Pin SB20-1
+Add Pin To Net: Unknown Pin: Pin SB20-2
+Add Pin To Net: Unknown Pin: Pin U12-16
+Add Pin To Net: Unknown Pin: Pin U12-17
+Add Pin To Net: Unknown Pin: Pin U12-18
+Add Net: Net with name "SDRAM_D0" already exists
+Add Net: Net with name "SDRAM_D1" already exists
+Add Net: Net with name "SDRAM_D2" already exists
+Add Net: Net with name "SDRAM_D3" already exists
+Add Net: Net with name "SDRAM_D4" already exists
+Add Net: Net with name "SDRAM_D5" already exists
+Add Net: Net with name "SDRAM_D6" already exists
+Add Net: Net with name "SDRAM_D7" already exists
+Add Net: Net with name "SDRAM_D8" already exists
+Add Net: Net with name "SDRAM_D9" already exists
+Add Net: Net with name "SDRAM_D10" already exists
+Add Net: Net with name "SDRAM_D11" already exists
+Add Net: Net with name "SDRAM_D12" already exists
+Add Net: Net with name "SDRAM_D13" already exists
+Add Net: Net with name "SDRAM_D14" already exists
+Add Net: Net with name "SDRAM_D15" already exists
+Add Net: Net with name "SDRAM_D16" already exists
+Add Net: Net with name "SDRAM_D17" already exists
+Add Net: Net with name "SDRAM_D18" already exists
+Add Net: Net with name "SDRAM_D19" already exists
+Add Net: Net with name "SDRAM_D20" already exists
+Add Net: Net with name "SDRAM_D21" already exists
+Add Net: Net with name "SDRAM_D22" already exists
+Add Net: Net with name "SDRAM_D23" already exists
+Add Net: Net with name "SDRAM_D24" already exists
+Add Net: Net with name "SDRAM_D25" already exists
+Add Net: Net with name "SDRAM_D26" already exists
+Add Net: Net with name "SDRAM_D27" already exists
+Add Net: Net with name "SDRAM_D28" already exists
+Add Net: Net with name "SDRAM_D29" already exists
+Add Net: Net with name "SDRAM_D30" already exists
+Add Net: Net with name "SDRAM_D31" already exists
+Change Class Name : Old Net Name=N000-1_[0..9] New Net Name=N000-2_[0..9]
+Change Class Name : Old Net Name=N000-2_[0..4] New Net Name=N000-1_[0..4]
+Add Differential Pair: Number of nets in differential pair NetU12_19 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetU12_20 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetU12_21 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetU12_22 is 1 instead of 2
+Add Class Member: Failed to add class member : Component SB1 SB_ON
+Add Class Member: Failed to add class member : Component SB2 SB_OFF
+Add Class Member: Failed to add class member : Component SB3 SB_OFF
+Add Class Member: Failed to add class member : Component SB4 SB_ON
+Add Class Member: Failed to add class member : Component SB5 SB_OFF
+Add Class Member: Failed to add class member : Component SB6 SB_ON
+Add Class Member: Failed to add class member : Component SB7 SB_ON
+Add Class Member: Failed to add class member : Component SB8 SB_OFF
+Add Class Member: Failed to add class member : Component SB9 SB_ON
+Add Class Member: Failed to add class member : Component SB10 SB_ON
+Add Class Member: Failed to add class member : Component SB11 SB_OFF
+Add Class Member: Failed to add class member : Component SB12 SB_OFF
+Add Class Member: Failed to add class member : Component SB13 SB_OFF
+Add Class Member: Failed to add class member : Component SB14 SB_ON
+Add Class Member: Failed to add class member : Component SB15 SB_OFF
+Add Class Member: Failed to add class member : Component SB16 SB_ON
+Add Class Member: Failed to add class member : Component SB17 SB_ON
+Add Class Member: Failed to add class member : Component SB18 SB_ON
+Add Class Member: Failed to add class member : Component SB19 SB_OFF
+Add Class Member: Failed to add class member : Component SB20 Solder Bridge OFF
