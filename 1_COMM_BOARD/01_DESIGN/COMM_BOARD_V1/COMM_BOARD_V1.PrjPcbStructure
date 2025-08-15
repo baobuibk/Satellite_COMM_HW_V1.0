@@ -14,5 +14,5 @@ Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=POWER.Sch
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=POWER_TREE.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=QSPI.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=SDRAM.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=USB_OTG.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=USB_HS_DEVICE.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=WATCHDOG.SchDoc|SheetNumber=4
