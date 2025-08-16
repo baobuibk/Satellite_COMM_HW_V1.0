@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=H745XI
 
 [Preferences]
 PrefsVaultGUID=
@@ -560,21 +559,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUWKOHJO
 
-[ProjectVariant1]
-UniqueId=C1FFB6AB-B489-46C2-85DC-8FBDF2D01DBC
-Description=H745XI
-AllowFabrication=0
-ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
+[Document31]
+DocumentPath=..\..\..\..\LIB_DOWNLOADED\MU00525-32-768K\MU00525-32P768K.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BSYROUYB
 
-[ProjectVariant2]
-UniqueId=6A19C742-54DF-4BFF-8F5E-E15534C9054B
-Description=H750XB
-AllowFabrication=0
-ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
+[Document32]
+DocumentPath=..\..\..\..\LIB_DOWNLOADED\MU00525-32-768K\MU00525-32P768K.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YAJRCSPS
 
 [Parameter1]
 Name=Board_Assembly_Revision
