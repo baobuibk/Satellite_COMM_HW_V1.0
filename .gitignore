@@ -1,2 +1,4 @@
 # Ignore all Altium History folders
 **/History/
+**/Project Logs for COMM_BOARD_V1/
+**/__Previews/
