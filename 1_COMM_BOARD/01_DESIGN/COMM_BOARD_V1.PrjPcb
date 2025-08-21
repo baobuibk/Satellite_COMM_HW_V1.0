@@ -492,24 +492,24 @@ GenerateClassCluster=0
 DocumentUniqueId=NNVCWMUV
 
 [Parameter1]
-Name=Board_Reference
-Value=MB1381
+Name=Board_Assembly_Revision
+Value=04
 
 [Parameter2]
-Name=Board_PCB_Revision
-Value=B
+Name=Board_Document_Date
+Value=27-Sep-2024
 
 [Parameter3]
 Name=Board_Name
 Value=STM32H7xxx-Disco
 
 [Parameter4]
-Name=Board_Document_Date
-Value=27-Sep-2024
+Name=Board_PCB_Revision
+Value=B
 
 [Parameter5]
-Name=Board_Assembly_Revision
-Value=04
+Name=Board_Reference
+Value=MB1381
 
 [Configuration1]
 Name=Default Configuration
