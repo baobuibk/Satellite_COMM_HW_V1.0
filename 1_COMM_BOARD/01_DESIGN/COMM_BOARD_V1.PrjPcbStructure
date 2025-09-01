@@ -12,5 +12,6 @@ Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=MODULE_FP
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=POWER.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=POWER_TREE.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=SDRAM.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=TEMP_CTRL.SchDoc|SheetNumber=17
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=USB_HS_DEVICE.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=BLOCK_DIAGRAM.SchDoc|FileName=WATCHDOG.SchDoc|SheetNumber=13
