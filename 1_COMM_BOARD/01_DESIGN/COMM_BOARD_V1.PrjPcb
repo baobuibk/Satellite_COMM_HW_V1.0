@@ -254,7 +254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=MODULE_FPGA.SchDoc
+DocumentPath=FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -322,6 +322,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YXHLAQHV
 
 [Document17]
+DocumentPath=TEMP_CTRL.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=42
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NQLULLUK
+
+[Document18]
 DocumentPath=WATCHDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJCTDRVG
 
-[Document18]
+[Document19]
 DocumentPath=DEBUG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYCIGTKW
 
-[Document19]
+[Document20]
 DocumentPath=MCU_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVGJDBGY
 
-[Document20]
+[Document21]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,23 +405,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMIAYHDU
-
-[Document21]
-DocumentPath=TEMP_CTRL.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=42
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NQLULLUK
 
 [Document22]
 DocumentPath=Project Logs for COMM_BOARD_V1\COMM_BOARD_V1.BomDoc
