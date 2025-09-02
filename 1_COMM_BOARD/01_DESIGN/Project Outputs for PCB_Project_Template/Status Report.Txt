@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [COMM_BOARD_V1.PrjPcb]
+   Generated File[COMM_V4.TXT]
+   Generated File[COMM_V4.LDP]
+   Generated File[COMM_V4.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:39:19 PM On 9/2/2025
