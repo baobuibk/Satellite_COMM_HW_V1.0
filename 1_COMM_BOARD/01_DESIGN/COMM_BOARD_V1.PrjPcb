@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GPYPJVZJ
 
 [Document5]
-DocumentPath=USB_HS_DEVICE.SchDoc
+DocumentPath=USB_FS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,6 +169,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RTGDTNWQ
 
 [Document8]
+DocumentPath=MRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=43
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TIVWJRAG
+
+[Document9]
 DocumentPath=LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMETSLND
 
-[Document9]
+[Document10]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDROOTNA
 
-[Document10]
+[Document11]
 DocumentPath=I2C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZMZFQRB
 
-[Document11]
+[Document12]
 DocumentPath=SDRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=MB1381.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKITCFKZ
 
-[Document14]
+[Document15]
 DocumentPath=LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFWWSLYY
 
-[Document15]
+[Document16]
 DocumentPath=LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
-[Document16]
+[Document17]
 DocumentPath=FRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXHLAQHV
 
-[Document17]
+[Document18]
 DocumentPath=TEMP_CTRL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQLULLUK
 
-[Document18]
+[Document19]
 DocumentPath=WATCHDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJCTDRVG
 
-[Document19]
+[Document20]
 DocumentPath=DEBUG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYCIGTKW
 
-[Document20]
+[Document21]
 DocumentPath=MCU_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVGJDBGY
 
-[Document21]
+[Document22]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMIAYHDU
 
-[Document22]
+[Document23]
 DocumentPath=Project Logs for COMM_BOARD_V1\COMM_BOARD_V1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=COMM_SCHLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFHALORE
 
-[Document24]
+[Document25]
 DocumentPath=COMM_SCHPCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFKGEJOW
 
-[Document25]
+[Document26]
 DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=eMMC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=COMM_V3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KILSPXXM
 
-[Document28]
+[Document29]
 DocumentPath=COMM_V4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMSYIHLL
 
-[Document29]
+[Document30]
 DocumentPath=Project Outputs for PCB_Project_Template\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=Project Outputs for PCB_Project_Template\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -624,6 +641,10 @@ DocumentPath=Project Outputs for PCB_Project_Template\COMM_V4_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for PCB_Project_Template\Design Rule Check - COMM_V3.html
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for PCB_Project_Template\Design Rule Check - COMM_V4.html
 DItemRevisionGUID=
 
@@ -3192,8 +3213,10 @@ Net191=NetName=ULPI_NXT|NetColor=$00FF6E6E
 Net192=NetName=ULPI_STP|NetColor=$00FF6E6E
 Net193=NetName=USB_DEV_HS_N|NetColor=$00FFFF6E
 Net194=NetName=USB_DEV_HS_P|NetColor=$00FFFF6E
-Net195=NetName=VCP_RX|NetColor=$006EFF6E
-Net196=NetName=VCP_TX|NetColor=$00FFFF6E
+Net195=NetName=USB_FS_DM|NetColor=$00FFF0FF
+Net196=NetName=USB_FS_DP|NetColor=$00FFF0FF
+Net197=NetName=VCP_RX|NetColor=$006EFF6E
+Net198=NetName=VCP_TX|NetColor=$00FFFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
