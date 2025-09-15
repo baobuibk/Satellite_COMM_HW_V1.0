@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: COMM_V3.PcbDoc   9/14/2025  5:30:40 PM
+NCDrill File Report For: COMM_V3.PcbDoc   9/15/2025  10:09:17 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,12 @@ ASCII RoundHoles File : COMM_V3.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             1084      PTH        2720.80mm (107.12inch)
+T1      0.2mm (8mil)                                              Round             1080      PTH        2681.70mm (105.58inch)
 T2      0.5mm (20mil)                                             Round             32        PTH        329.42mm (12.97inch)
 T3      0.9mm (35mil)                                             Round             104       PTH        311.73mm (12.27inch)
 T4      1.1mm (43mil)                                             Round             10        PTH        22.86mm (0.90inch)
 T5      3.3mm (130mil)                                            Round             4         PTH        287.12mm (11.30inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1234
+Totals                                                                              1230
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

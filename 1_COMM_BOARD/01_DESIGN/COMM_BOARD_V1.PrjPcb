@@ -509,23 +509,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KILSPXXM
 
 [Document28]
-DocumentPath=COMM_V4.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TMSYIHLL
-
-[Document29]
 DocumentPath=Project Outputs for PCB_Project_Template\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=Project Outputs for PCB_Project_Template\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
