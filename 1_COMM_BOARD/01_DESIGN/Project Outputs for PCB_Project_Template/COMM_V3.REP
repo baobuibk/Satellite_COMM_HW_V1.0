@@ -360,15 +360,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : L2_GND
-      File : COMM_V3_Copper_Signal_1.gbr
+Generating : L3_PWR
+      File : COMM_V3_Copper_Signal_2.gbr
 
-    Adding Layer      : L2_GND
+    Adding Layer      : L3_PWR
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D95
     D98
     D99
     D100
@@ -381,16 +382,15 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : L3_PWR
-      File : COMM_V3_Copper_Signal_2.gbr
+Generating : L2_GND
+      File : COMM_V3_Copper_Signal_1.gbr
 
-    Adding Layer      : L3_PWR
+    Adding Layer      : L2_GND
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D93
     D98
     D99
     D100
