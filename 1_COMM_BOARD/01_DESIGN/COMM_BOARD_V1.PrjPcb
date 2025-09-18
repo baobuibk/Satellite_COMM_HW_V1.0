@@ -542,6 +542,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document30]
+DocumentPath=..\05_SMT\PAY-IF_R100.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RZMKOWTG
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_Project_Template\Design Rule Check - PAY-IF_R100.html
 DItemRevisionGUID=
@@ -636,6 +653,14 @@ DItemRevisionGUID=
 
 [GeneratedDocument24]
 DocumentPath=Project Outputs for PCB_Project_Template\PAY-IF_R100_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for PCB_Project_Template\Pick Place for PAY-IF_R100.csv
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PCB_Project_Template\Pick Place for PAY-IF_R100.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -945,22 +970,26 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#18=Name:Order_Code_RS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#19=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#20=Name:ECCN_EU,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#21=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#22=Name:MPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#23=Name:Manufacturer_HQ_COO,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#24=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75,Type:0|Column#25=Name:CompanyID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#26=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#27=Name:ShowFields,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74,Type:0|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#29=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#30=Name:Datasheet,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#31=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#32=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#33=Name:Number of Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#34=Name:Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#35=Name:BMS_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#36=Name:Match Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#37=Name:Provided_By,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#38=Name:Operating Temperature Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#39=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#40=Name:Working Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81,Type:0|Column#41=Name:MFR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#42=Name:Order_Code_Digikey,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#43=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#44=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#45=Name:Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77,Type:0|Column#46=Name:Copyright,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#47=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#48=Name:Component_Country_Of_Origin,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#49=Name:Arrow Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#50=Name:ID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#51=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#52=Name:Order_Code_Farnell,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#53=Name:Contact Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#54=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78,Type:0|Column#55=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#56=Name:PinCount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#57=Name:Full_Alternate_Internal_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#58=Name:Number Of Rows,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#59=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#60=Name:ECCN_US,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#61=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#62=Name:Arrow Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#63=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#64=Name:Alternate_EMS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#65=Name:Geometry.Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#66=Name:Initial_Board_Reference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#67=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#68=Name:Rated Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#69=Name:Part_Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#70=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#71=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#72=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79,Type:0|Column#73=Name:Solder,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76,Type:0|Column#74=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#75=Name:Partial_Alternate_Internal_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#76=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#77=Name:Operating Temperature Min,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#78=Name:RefDes,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|Column#79=Name:Withstanding Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80,Type:0|Column#80=Name:Internal_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#81=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#82=Name:Part_Preference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|DocumentPath=D:\Altium_WorkSpace\Satellite_COMM_HW_V1.0\1_COMM_BOARD\01_DESIGN\PAY-IF_R100.PcbDoc
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 
 [OutputGroup5]
 Name=Fabrication Outputs
